@@ -8,7 +8,8 @@ class Pengguna {
     private int tahunLahir;
     private int umur;
 
-    // Constructor
+    // Constructor yang mengambil 3 parameter
+    // nama dan tahun lahir ke instansi variable
     public Pengguna(String nama, String jenisKelamin, int tahunLahir) {
         this.nama = nama;
         this.jenisKelamin = formatJenisKelamin(jenisKelamin);
@@ -16,7 +17,7 @@ class Pengguna {
         hitungUmur();
     }
 
-    // Method untuk memformat jenis kelamin
+    // Method
     private String formatJenisKelamin(String input) {
         if (input.equalsIgnoreCase("L")) {
             return "Laki-laki";
@@ -26,23 +27,26 @@ class Pengguna {
         return "Tidak Valid";
     }
 
-    // Method untuk menghitung umur
+    // Method untuk menghitung umur (instansi)
     private void hitungUmur() {
         int tahunSekarang = LocalDate.now().getYear();
         this.umur = tahunSekarang - this.tahunLahir;
     }
 
-    // Getter methods
+    // Getter methods untuk mengenkapsulate agar data tidak bisa diubah/pengelolaan data
     public String getNama() {
         return nama;
+        //getnama() untuk return nama
     }
 
     public String getJenisKelamin() {
         return jenisKelamin;
+        //getJenisKelamin() untuk return jenis kelamin/gender
     }
 
     public int getUmur() {
         return umur;
+        //getUmur() untuk return umur
     }
 
     // Method untuk menampilkan data
@@ -54,7 +58,7 @@ class Pengguna {
     }
 }
 
-// Class utama program
+// Class utama program DataDiriProgram
 public class DataDiriProgram {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

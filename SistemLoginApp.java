@@ -13,7 +13,7 @@ class Admin {
 // Class untuk menyimpan data Mahasiswa anggap sj seperti database
 class Mahasiswa {
     private final String nama = "Nanda";
-    private final String nim = "202410370311999";
+    private final String nim = "202410370110191";
 
     public boolean validateLogin(String inputNama, String inputNim) {
         return nama.equals(inputNama) && nim.equals(inputNim);
