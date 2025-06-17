@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e9e915b-1fb5-4af0-945c-c1cc13b3213b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/javafx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/Module3/Module3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3-Codelab/Module3-Task/Modul3-Prak.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3-Codelab/Module3-Task/Module4/Module4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3-Codelab/Module3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module4/Module4-Task/Module4-Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module5-Task/Module5-Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module5/Module5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module6-Task/Module6-Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module6/Module6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module6nyoba/Module6nyoba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataDiriProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/LoginSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2/src/LoginSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3-Codelab/Modul3-Task/src/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module3-Codelab/Module3-Task/src/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3-Codelab/Modul3-Task/src/LoginSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module3-Codelab/Module3-Task/src/LoginSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3-Codelab/Modul3-Task/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module3-Codelab/Module3-Task/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3-Codelab/Modul3-Task/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module3-Codelab/Module3-Task/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3-Codelab/src/Modul3-Codelab/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module4/Module4-Task/src/com/praktikum/main/LoginSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module4/Module4-Task/src/com/praktikum/main/LoginSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module4/src/App/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module4/src/App/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module4/src/Perpustakaan/Anggota.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module4/src/Perpustakaan/Anggota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module4/src/Perpustakaan/Buku.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module4/src/Perpustakaan/Buku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SistemLoginApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SistemLoginApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Modul3-Prak/LoginSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Modul3-Prak/LoginSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Module2/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Module2/LoginSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Module2/LoginSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Module2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Module5-Task/com/praktikum/actions/AdminActions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Module5-Task/com/praktikum/actions/StudentActions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/PRAK1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/PRAK1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/PRAK1/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/PRAK1/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nandapputtrrii&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nandapputtrrii/Prak1_PBO.git&quot;,
+    &quot;accountId&quot;: &quot;da48ae00-f905-44d1-b9dd-0e6fcb997133&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2tYllvcQ3UO0jujhl9hd5jkyC7y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LibraryManagementSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleBorrowingHistoryUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentDashboardUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Text01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UMMLoginUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UMMRegisterPanelUI.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/aniseilanandaputri/IdeaProjects/PRAK1/test/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SimpleBorrowingHistoryUI" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Dashboard.StudentDashboardUI" />
+      <module name="test" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/Downloads/javafx-sdk-24.0.1/lib --add-modules javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e9e915b-1fb5-4af0-945c-c1cc13b3213b" name="Changes" comment="" />
+      <created>1740537044946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740537044946</updated>
+      <workItem from="1740537045927" duration="58000" />
+      <workItem from="1740537117112" duration="1000" />
+      <workItem from="1740967614522" duration="1022000" />
+      <workItem from="1749895010824" duration="36347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
